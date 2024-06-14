@@ -2,37 +2,28 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Computer Science and Engineering Student  
+## I'm a New Grad in Computer Science and Physics
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play pool and snooker 🎱.
+- 👨‍💻 I’m currently interested in working in Web Development, Mobile development and App development
+- 📚 I’m currently learning more about AI and Android Development
+- ⚡ Activities: I love to play sports. I ski since the age of 5, and play squash since the age of 6.
+- 🤔 Fun fact: I used to be top 10 BU19 Squash Player, and I'm currently learning how to play Ice Hockey!
+---
+
+### Connect with me 
+
+<!-- <a target="_blank" href="https://www.linkedin.com/in/martinbrnak/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
+  <a target="_blank" href="https://open.spotify.com/user/21bglkok6u3c237rvwijnompa?si=d0f742d52dae40e2">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a>
+  <a target="_blank" href="https://dev.to/ABSphreak">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a> -->
+
+<a href="https://www.linkedin.com/in/martinbrnak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://open.spotify.com/user/21bglkok6u3c237rvwijnompa?si=d0f742d52dae40e2" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+<a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
-
----
-
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
-
-### Contact with me 📝
-
-[<img align="left" alt="bilgehangecici.site" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
-[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-[<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
-[<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
-
-<br />
-
----
-
-### Languages and Tools 🛠 
+### Tech Stack 🛠 
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
@@ -66,28 +57,20 @@
   
   <div align="center"> 
      <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bgstatic&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=martinbrnak&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
     </a>
     <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&theme=react&line_height=40&hide=css"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinbrnak&theme=react&line_height=40&hide=css"/>
     </a>
 </div
 
-<br/>
-
----
-
-### ⭐️ From [Bgstatic](https://github.com/Bgstatic) ### 
-
----
-
-[website]: http://bilgehangecici.site/
-[instagram]: https://www.instagram.com/bilgehangecici
-[linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
-[Spotify]: https://open.spotify.com/user/11153360645
-
 
 ----
-Credit: [Bgstatic](https://github.com/Bgstatic)
 
-Last Edited on: 23/09/2020
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Currently Jamming to 🎧
+
+[![Spotify](https://novatorem.martinbrnak.vercel.app/api/spotify)](https://open.spotify.com/user/21bglkok6u3c237rvwijnompa)
+---
+
