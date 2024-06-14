@@ -6,7 +6,7 @@
 
 - 👨‍💻 I’m currently interested in working in Web Development, Mobile development and App development
 - 📚 I’m currently learning more about AI and Android Development
-- ⚡ Activities: I love to play sports. I ski since the age of 5, and play squash since the age of 6.
+- ⚡ Activities: I love to play sports. I have skied since the age of 5, and played squash since the age of 6.
 - 🤔 Fun fact: I used to be top 10 BU19 Squash Player, and I'm currently learning how to play Ice Hockey!
 ---
 
